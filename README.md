@@ -1,2 +1,2 @@
 # Java-games
-Three games implemented in Java using Gui.
+Three games implemented in Java using GUI.
